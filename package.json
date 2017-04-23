@@ -11,17 +11,28 @@
     "url": "git+https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-alejandro-carlos-samuel-35l2-p5.git"
   },
   "author": "Samuel Valcarcel <samuvalcarcel@gmail.com> (http://cosaca.github.io)",
-  "contributors": [{
-    "name": "Alejandro Arzola",
-    "email": "alu0100814712@ull.edu.es"
-  },
-  {
-    "name": "Carlos de Armas",
-    "email": "alu0100816167@ull.edu.es"
-  }],
+  "contributors": [
+    {
+      "name": "Alejandro Arzola",
+      "email": "alu0100814712@ull.edu.es"
+    },
+    {
+      "name": "Carlos de Armas",
+      "email": "alu0100816167@ull.edu.es"
+    }
+  ],
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-alejandro-carlos-samuel-35l2-p5/issues"
   },
-  "homepage": "https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-alejandro-carlos-samuel-35l2-p5#readme"
+  "homepage": "https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-alejandro-carlos-samuel-35l2-p5#readme",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0",
+    "should": "^11.2.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-shell": "^0.6.3"
+  }
 }
