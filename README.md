@@ -1,6 +1,6 @@
 # Práctica: Creación de Paquetes NPM y Strategy Pattern
 
-## Descripción
+## Descripción
 
 Uno de los objetivos de esta práctica es aprender a crear packages NodeJS y publicarlos en npm. El paquete se construye a partir de el código que se desarrolló en la práctica evaluar strategy pattern.
 
