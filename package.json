@@ -4,7 +4,7 @@
   "description": "Modulo npm con el código de la clase Shape",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "./node_modules/mocha/bin/mocha --require should"
   },
   "repository": {
     "type": "git",
