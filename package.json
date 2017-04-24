@@ -1,8 +1,8 @@
 {
-  "name": "ull-shape-alejandro-carlos-samuel",
+  "name": "@alejandro-carlos-samuel/ull-shape",
   "version": "0.0.0",
   "description": "Modulo npm con el código de la clase Shape",
-  "main": "index.js",
+  "main": "lib/shape.js",
   "scripts": {
     "test": "./node_modules/mocha/bin/mocha --require should"
   },
