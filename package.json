@@ -1,6 +1,6 @@
 {
   "name": "@alejandro-carlos-samuel/ull-shape",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Modulo npm con el código de la clase Shape",
   "main": "lib/shape.js",
   "scripts": {
