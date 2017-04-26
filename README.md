@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-alejandro-carlos-samuel-35l2-p5.svg?branch=master)](https://travis-ci.org/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-alejandro-carlos-samuel-35l2-p5)
+[![Build Status](https://travis-ci.org/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-alejandro-carlos-samuel-35l2-p5.svg?branch=master)](https://travis-ci.org/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-alejandro-carlos-samuel-35l2-p5) [![npm version](https://badge.fury.io/js/%40alejandro-carlos-samuel%2Full-shape.svg)](https://badge.fury.io/js/%40alejandro-carlos-samuel%2Full-shape)
 
 # Práctica: Creación de Paquetes NPM y Strategy Pattern
 

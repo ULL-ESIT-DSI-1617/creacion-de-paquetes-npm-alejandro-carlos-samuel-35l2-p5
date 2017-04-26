@@ -8,7 +8,7 @@ try {
   let type = process.argv[2];
   let Module = require('@alejandro-carlos-samuel/ull-' + type.toLowerCase());
   let arg = process.argv[3];
-  let obj = JSON.parse();
+  let obj = JSON.parse(arg.toString());
   let t = new Shape(obj, type);
   let s = t.getArea();
   console.log(s);
