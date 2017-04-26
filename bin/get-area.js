@@ -6,7 +6,7 @@ let Shape = require('../lib/shape.js')
 
 try {
   let type = process.argv[2];
-  let Module = require('@aleag/ull-' + type.toLowerCase() + '-aleag');
+  let Module = require('@alejandro-carlos-samuel/ull-' + type.toLowerCase());
   let arg = process.argv[3];
   let obj = JSON.parse();
   let t = new Shape(obj, type);
