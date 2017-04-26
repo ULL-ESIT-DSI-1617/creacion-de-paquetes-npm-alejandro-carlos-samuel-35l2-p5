@@ -1,13 +1,13 @@
 {
   "name": "@alejandro-carlos-samuel/ull-shape",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Modulo npm con el código de la clase Shape",
   "main": "lib/shape.js",
   "scripts": {
     "test": "./node_modules/mocha/bin/mocha --require should"
   },
   "bin": {
-  "getArea": "./bin/get-area.js"
+    "getArea": "./bin/get-area.js"
   },
   "repository": {
     "type": "git",
