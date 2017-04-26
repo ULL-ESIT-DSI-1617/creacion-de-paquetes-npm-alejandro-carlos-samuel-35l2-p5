@@ -4,6 +4,11 @@
 
 ## Uso
 
+* Para instalar el paquete ejecutar:
+```bash
+npm i -S @alejandro-carlos-samuel/ull-shape
+```
+* Para utilizar el paquete añadir la siguiente línea:
 ```javascript
 let myShape = require('@alejandro-carlos-samuel/ull-shape');
 ```
