@@ -6,6 +6,9 @@
   "scripts": {
     "test": "./node_modules/mocha/bin/mocha --require should"
   },
+  "bin": {
+  "getArea": "./bin/get-area.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-alejandro-carlos-samuel-35l2-p5.git"
